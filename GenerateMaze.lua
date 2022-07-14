@@ -1,5 +1,5 @@
 --[[ 
-	Written by Hellhawk on Roblox.
+	Written a long, long time ago.
 --]]
 
 local mlengthx = 25
